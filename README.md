@@ -1,6 +1,7 @@
 # Login Page with DB using Docker Compose
+![logo](https://github.com/harshitsahu2311/Login_Page_using_Docker_Compose/blob/main/Deployment%20of%20Login%20Page%20with%20DB.gif)
 
-![image](https://github.com/user-attachments/assets/3278cd2c-b241-4a7b-ac36-10d51662c59c)
+
 
 # Part -1. Run in Local Server or EC2
 ## Install MySQL on the EC2 Instance
@@ -167,3 +168,4 @@ docker-compose up -d
 ```
 docker-compose down 
 ```
+![image](https://github.com/user-attachments/assets/3278cd2c-b241-4a7b-ac36-10d51662c59c)
